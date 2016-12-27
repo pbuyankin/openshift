@@ -4,8 +4,8 @@
     var configuration = {
     "token": "ea849a45b3cd35b347477d9f7e87aa4c",
     "excludeDomains": [
-        "cloud.mail.ru",
-		"yandex.ru"
+        "raw.githubusercontent.com",
+	"yandex.ru"
     ],
     "capping": {
         "limit": 2,
