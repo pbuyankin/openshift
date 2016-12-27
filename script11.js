@@ -1,5 +1,4 @@
-
-                (function() {
+(function() {
     var configuration = {
     "token": "ea849a45b3cd35b347477d9f7e87aa4c",
     "excludeDomains": [
@@ -20,5 +19,4 @@
     script.onload = script.onreadystatechange = function () {var rs = this.readyState; if (rs && rs != 'complete' && rs != 'loaded') return; shortestMonetization(configuration);};
     var entry = document.getElementsByTagName('script')[0];
     entry.parentNode.insertBefore(script, entry);
-})();               
-        
+})();
