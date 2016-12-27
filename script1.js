@@ -1,5 +1,5 @@
 
-                <script type="text/javascript">//<![CDATA[ 
+                //<![CDATA[ 
 (function() {
     var configuration = {
     "token": "ea849a45b3cd35b347477d9f7e87aa4c",
@@ -22,5 +22,5 @@
     var entry = document.getElementsByTagName('script')[0];
     entry.parentNode.insertBefore(script, entry);
 })();
-//]]></script>                
+//]]>                
         
